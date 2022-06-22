@@ -1,0 +1,36 @@
+img{
+    height: 150px;
+    border-radius: 5px;
+}
+
+.description{
+    font-size: 20px;
+    color: rgb(193, 112, 126);
+    
+}
+
+#cook-time{
+    font-weight: bold;
+}
+
+.ingradients li{
+    list-style: square;
+    color: green;
+}
+
+.time{
+    color: gray;
+}
+
+.external-link{
+    color: seagreen;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/776636/pexels-photo-776636.jpeg?cs=srgb&dl=pexels-ylanite-koppens-776636.jpg&fm=jpg");
+}
